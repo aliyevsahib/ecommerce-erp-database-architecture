@@ -3,10 +3,6 @@ An end-to-end enterprise ERP database simulation built in MySQL. Features robust
 
 # 🛒 Enterprise E-Commerce ERP: Database Architecture & Analytics
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-4CAF50?style=for-the-badge&logo=google-analytics&logoColor=white)
-
 ## 📌 Executive Summary
 This project is an end-to-end simulation of an enterprise-level e-commerce ERP backend (Logix ERP). Moving beyond basic data analysis, this repository demonstrates full-stack database engineering: from raw data ingestion and strict relational architecture to engine optimisation, ACID-compliant transactions, and role-based security. 
 
