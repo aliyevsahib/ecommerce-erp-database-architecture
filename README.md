@@ -1,7 +1,7 @@
 # ecommerce-erp-database-architecture
 An end-to-end enterprise ERP database simulation built in MySQL. Features robust architecture, ACID transactions, advanced analytics, B-Tree index optimisation, and role-based security views.
 
-# 🛒 Enterprise E-Commerce ERP: Database Architecture & Analytics
+# Enterprise E-Commerce ERP: Database Architecture & Analytics
 
 ## 📌 Executive Summary
 This project is an end-to-end simulation of an enterprise-level e-commerce ERP backend (Logix ERP). Moving beyond basic data analysis, this repository demonstrates full-stack database engineering: from raw data ingestion and strict relational architecture to engine optimisation, ACID-compliant transactions, and role-based security. 
